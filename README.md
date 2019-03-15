@@ -4,7 +4,7 @@ Este curso tiene el objetivo de ayudar a comprender todos los conceptos que impl
 
 ## Conocimientos previos
 
-Para la realiazción del curso es conveniente disponer de los siguientes conocimientos:
+Para la realización del curso es conveniente disponer de los siguientes conocimientos:
 * API REST / HTTP - Para la comunicación con el servidor
 
 
